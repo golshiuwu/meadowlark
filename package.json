@@ -1,0 +1,11 @@
+{
+  "name": "meadowlark.js",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node meadowlark.js",
+    "dev": "nodemon meadowlark.js",
+    "build": "webpack --mode production",
+    "test": "jest",
+    "custom-task": "echo Running."
+  }
+}
